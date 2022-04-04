@@ -7,7 +7,7 @@ namespace Sist_de_Apostas
     {
         static void Main(string[] args)
         {
-            int[] numeros = new int[6];
+            int[] numeros = new int[0];
             Random random = new Random();
 
 
@@ -67,8 +67,8 @@ namespace Sist_de_Apostas
             
 
 
-            Console.WriteLine(m);
-        }
+            
+        
 
     }
 }
